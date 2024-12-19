@@ -22,7 +22,6 @@ export default function DashboardLayout({ navigation }) {
         </View>
         <ActionGrid />
       </ScrollView>
-      <NavigationBar />
     </View>
     </>
   );
