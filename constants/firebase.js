@@ -7,14 +7,14 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD_0FNCXFh6oT4KfuL5NTMgTHJQm0vEaIk",
-  authDomain: "indiapost-33d9d.firebaseapp.com",
-  databaseURL: "https://indiapost-33d9d-default-rtdb.firebaseio.com",
-  projectId: "indiapost-33d9d",
-  storageBucket: "indiapost-33d9d.appspot.com",
-  messagingSenderId: "854003854755",
-  appId: "1:854003854755:web:8ff777fd77c4f37a16fe16",
-  measurementId: "G-L13LPC5GK3"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
